@@ -2,7 +2,7 @@
 A lightweight TCP implementation using UDP transport layer.
 
 This is the class project for CS-335a (www.csd.uoc.gr/~hy335a/) for the
-Fall 2017 semester.
+Fall 2017 semester, courtesy of T.A. Manolis Sourligas.
 
 ## Build requirements
 To build this project `cmake` is needed.
